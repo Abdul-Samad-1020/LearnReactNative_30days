@@ -1,7 +1,7 @@
 import React from 'react'
-import Name from './Componenta/Name'
-import Paraent from './Componenta/Paraent'
-import Profile from './Componenta/Profile'
+import Name from './Components/Name'
+import Paraent from './Components/Paraent'
+import Profile from './Components/Profile'
 function App() {
   return (
     <div>
