@@ -3,7 +3,7 @@ name: Daily Commit
 on:
   schedule:
     - cron: '0 4 * * *'  # Runs daily at 4:00 AM UTC
-  workflow_dispatch:      # Allows manual run
+  workflow_dispatch:      # Allows manual run from GitHub UI
 
 jobs:
   auto-commit:
@@ -18,6 +18,5 @@ jobs:
           git config --global user.name "Abdul-Samad-1020"
           git config --global user.email "abdulsamadmughal1020@gmail.com"
           git add commit.log
-          git commit -m "í³… Daily commit: $(date)"
+          git commit -m "ðŸ“… Daily commit: $(date)"
           git push
-
