@@ -1,0 +1,65 @@
+Here’s your updated resume tailored for a **MERN Stack Developer** role:  
+
+---
+
+### **ABDUL SAMAD**  
+**MERN Stack Developer**  
+MIRPUR, AZAD KASHMIR | +92 309 6603030 | **Email:** abdulsamadmughal1020@gmail.com | **GitHub:** Abdul-Samad-1020 | **LinkedIn:** AbdulSamad  
+
+---
+
+### **Objective**  
+A highly motivated and detail-oriented **MERN Stack Developer** with a strong foundation in full-stack web development. Skilled in building dynamic, scalable, and efficient web applications using **MongoDB, Express.js, React.js, and Node.js**. Passionate about problem-solving, optimizing performance, and continuous learning. Seeking an opportunity to contribute to a dynamic development team while enhancing expertise in **JavaScript, React.js, and backend development** to build innovative and impactful solutions.  
+
+---
+
+### **Education**  
+**BS Software Engineering** – National University of Modern Languages (NUML) *(2023 – Present)*  
+**Intermediate (Computer Science)** – Suffa Science College, Khuiratta, Azad Kashmir *(2021 – 2023)*  
+
+---
+
+### **Experience**  
+
+#### **Academic Projects:**  
+1. **Full-Stack Exam Management System** – Developed a database-driven system using **MySQL and PHP** *(4 weeks)*.  
+2. **React.js Frontend Application** – Designed a dynamic UI using **React.js**.  
+3. **Web Application Development** – Built a responsive web app using **HTML, CSS, and JavaScript**.  
+
+#### **Personal Projects:**  
+- **Portfolio Website** – Created a personal website using **React.js and Tailwind CSS**.  
+- **MERN Stack E-Commerce App** *(In Progress)* – Developing a full-stack e-commerce platform with **MongoDB, Express.js, React.js, and Node.js**.  
+
+---
+
+### **Skills**  
+
+#### **Programming Languages:**  
+- **JavaScript (ES6+), C/C++, Java, PHP**  
+
+#### **Frameworks, Libraries & Tools:**  
+- **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+- **Bootstrap 5, Tailwind CSS**  
+- **Git & GitHub**  
+
+#### **Databases:**  
+- **MongoDB, MySQL**  
+
+#### **Version Control & Deployment:**  
+- **Git, GitHub, Vercel, Netlify**  
+
+---
+
+### **Languages**  
+- **English** (Fluent)  
+- **Urdu** (Native)  
+
+---
+
+### **Hobbies & Interests**  
+- Contributing to **open-source projects** on GitHub.  
+- Exploring **new web technologies** and frameworks.  
+
+---
+
+This version emphasizes your **MERN stack expertise**, making it more relevant for **full-stack web development** roles. Let me know if you need any modifications! 🚀
