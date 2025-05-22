@@ -5,7 +5,8 @@ let fruits = ["Apple", "Mango", "Banana"]; // Array
 let person = { name: "samad", age: 25 }; // Object
 console.log(person);
 
-
+// fsdfasdfasdfasdfadfdsafsadhjfklasdfdsafkjhdk?
+// this is a simple comments
 //function
 function greet(name) {
     return `Hello, ${name}!`;
